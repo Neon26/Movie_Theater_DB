@@ -1,0 +1,10 @@
+ALTER TABLE movie
+ALTER COLUMN movie_description SET DATA TYPE TEXT;
+
+ALTER TABLE ticket
+ALTER COLUMN price SET DATA TYPE DECIMAL(4,2);
+    
+ALTER TABLE concessions
+ALTER COLUMN concession_price SET DATA TYPE DECIMAL(4,2);
+
+    

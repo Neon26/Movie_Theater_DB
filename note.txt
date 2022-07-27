@@ -1,0 +1,47 @@
+Customer
+    Customer ID
+    Customer first name
+    Customer last name
+    Phone nuumber
+    Email
+
+Ticket
+    Ticket ID
+    Price
+    Seat nuumber
+    Show date
+    Show ID
+    Start Time
+    Ticket Number
+
+Concessions
+    Employee ID
+    Price
+    Inventory
+
+Movie
+    Movie ID
+    Movie name
+    Genre
+    Rating
+
+Employee
+    Employee ID
+    Employee first name
+    Employee last name
+    Email
+    Phone number
+    Address
+
+Show
+    Show ID
+    Start Time
+    End Time
+    Language
+
+Theatre
+    Theatre ID
+    Theatre name
+    Location
+
+
